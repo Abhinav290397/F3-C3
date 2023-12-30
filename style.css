@@ -1,0 +1,19 @@
+#header{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+#car1{
+    font-weight: 900;
+    font-size: 24px;
+}
+#car2{
+    font-weight:900;
+    font-size: 22px;
+}
+#current-image-container{
+    background-color:aqua;
+    width: 900px;
+    height: 600px;
+}
